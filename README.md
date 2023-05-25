@@ -10,6 +10,8 @@ Fitur:
 -Events
 -dan masih banyak lagi
 
+yang kurang: frontend crosshair recommendation, backend user session, backend forum
+
 FrontEnd Code: html, css, javascript
 Backend Code: php
 Database: SQL
